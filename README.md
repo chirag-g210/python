@@ -10,7 +10,7 @@ I primarily use **Jupyter Notebook** for learning and experimenting with Python 
 
 ## 📚 Learning Source
 
-I am currently learning Python from **[Chai Aur Code](https://github.com/hiteshchoudhary)** by **Hitesh Choudhary**.
+I am currently learning Python library (numpy) from **[Chai Aur Code](https://github.com/hiteshchoudhary)** by **Hitesh Choudhary**.
 
 His teaching style is practical, beginner-friendly, and focused on building strong programming fundamentals. This repository is my personal learning record based on the concepts I learn throughout the course.
 
